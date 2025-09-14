@@ -1,10 +1,20 @@
 {
-    "name": "com.goshujin.va-udon-and-dragons",
-    "displayName": "vaUdon and Dragons",
-    "version": "1.0.0",
-    "description": "A gimmick for VRChat worlds. Download the package from Booth and add it to VCCmanually.",
-    "author": 
-    {
-        "name": "Vavaldie09"
+  "name": "Vavaldie's VPM Repository",
+  "author": "Vavaldie09",
+  "url": "https://vavaldie09.github.io/vaUdon_and_Dragons-listing/",
+  "packages": {
+    "com.goshujin.va-udon-and-dragons": {
+      "versions": {
+        "1.0.0": {
+          "name": "com.goshujin.va-udon-and-dragons",
+          "displayName": "vaUdon and Dragons",
+          "version": "1.0.0",
+          "description": "A gimmick for VRChat worlds. Download the package from Booth and add it to VCC manually.",
+          "author": {
+            "name": "Vavaldie09"
+          }
+        }
+      }
     }
+  }
 }
